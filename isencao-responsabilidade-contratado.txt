@@ -1,4 +1,4 @@
-Eu, Ronaldo Gomes Carvalho portador do CPF nº 064.660.079-60 e do RG nº 10.225.847-9, desenvolvi o software sistema Gerenciamento de Boletos,
+Eu, Ronaldo Gomes Carvalho portador do CPF nº ***.***.079-** e do RG nº ______________, desenvolvi o software sistema Gerenciamento de Boletos,
 o qual será utilizado por Mitra Diocesana de Apucarana, CNPJ: 75.283.564/0045-07. 
 Declaro que o software foi desenvolvido com o máximo de cuidado e atenção, usando das boas práticas de desenvolvimento de software, 
 buscando atender às necessidades e especificações solicitadas pelo cliente, bem como a proteção dos dados.
