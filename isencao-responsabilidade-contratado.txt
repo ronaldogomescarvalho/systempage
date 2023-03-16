@@ -1,0 +1,18 @@
+Eu, Ronaldo Gomes Carvalho portador do CPF nº 064.660.079-60 e do RG nº 10.225.847-9, desenvolvi o software sistema Gerenciamento de Boletos,
+o qual será utilizado por Mitra Diocesana de Apucarana, CNPJ: 75.283.564/0045-07. 
+Declaro que o software foi desenvolvido com o máximo de cuidado e atenção, usando das boas práticas de desenvolvimento de software, 
+buscando atender às necessidades e especificações solicitadas pelo cliente, bem como a proteção dos dados.
+No entanto, a partir data deste documento, isento-me de quaisquer responsabilidades decorrentes do uso do software.
+Qualquer uso indevido do software, falhas no sistema operacional, hardware incompatível, 
+problemas decorrentes de softwares ou sistemas de terceiros, vazamento de dados pessoais dos usuários do software desde 
+que tal vazamento não tenha sido intencionalmente causado por minha parte,  assim como quaisquer outras circunstâncias 
+não relacionadas diretamente com o software desenvolvido por mim estão fora do meu controle, e não sou responsável por eles.
+Declaro, que o software foi desenvolvido com base nas informações e especificações fornecidas pelo cliente, e que 
+qualquer divergência ou alteração das mesmas após a entrega do software é de responsabilidade exclusiva do cliente.
+Declaro, ainda, que o cliente é o único responsável por garantir a proteção adequada dos dados pessoais dos usuários, 
+conforme as leis e regulamentações aplicáveis.
+Por fim, esclareço que o software é fornecido "como está", sem qualquer garantia expressa ou implícita, incluindo 
+garantias de adequação a um determinado fim ou de não violação de direitos de terceiros. Em nenhum caso serei 
+responsável por quaisquer danos diretos, indiretos, incidentais ou consequenciais decorrentes do uso do software.
+Assim, por meio deste termo, declaro minha isenção de responsabilidade por quaisquer danos decorrentes do uso do
+ software desenvolvido por mim. Caso discorde dos termos mencionados recuse-se ao utilizar o software.

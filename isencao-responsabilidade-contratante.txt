@@ -1,0 +1,21 @@
+A Mitra Diocesana de Apucarana, CNPJ: 75.283.564/0045-07, doravante denominada "Mitra Diocesana", 
+contratou Ronaldo Gomes Carvalho, CPF nº 064.660.079-60, doravante denominado "desenvolvedor", 
+para desenvolver e fornecer o software Sistema de Gerenciamento de Boletos.
+
+Por meio deste termo, a Mitra Diocesana, representada pelo____________________________ ,CPF nº _____________________   
+ isenta o desenvolvedor de quaisquer responsabilidades decorrentes do uso do software pela Mitra Diocesana, 
+desde que tal uso não tenha sido intencionalmente deturpado ou modificado pela Mitra Diocesana ou por terceiros atuando em nome da Mitra Diocesana.
+
+Declaro, ainda, que o software foi desenvolvido com base nas informações e especificações fornecidas 
+pela Mitra Diocesana, e que qualquer divergência ou alteração das mesmas após a entrega do software é de responsabilidade exclusiva 
+da Mitra Diocesana. A Mitra Diocesana é responsável por avaliar a adequação do software às suas necessidades específicas antes da sua utilização.
+
+Por fim, esclareço que o software é fornecido "como está", sem qualquer garantia expressa ou implícita, incluindo garantias 
+de adequação a um determinado fim ou de não violação de direitos de terceiros. Em nenhum caso o desenvolvedor será responsável por quaisquer danos diretos, indiretos, incidentais ou consequenciais decorrentes do uso do software pela Mitra Diocesana, incluindo perda de dados, lucros cessantes ou danos à imagem da Mitra Diocesana.
+
+Assim, por meio deste termo, a Mitra Diocesana, representada pelo ____________________________, concorda em isentar 
+o desenvolvedor de quaisquer responsabilidades decorrentes do uso do software pela Mitra Diocesana, desde que tal uso
+ não tenha sido intencionalmente deturpado ou modificado pela Mitra Diocesana ou por terceiros atuando em nome da 
+Mitra Diocesana, e que todas as especificações e necessidades foram devidamente informadas pela Mitra Diocesana. 
+O desenvolvedor concorda em não ser responsabilizado por quaisquer danos decorrentes do uso do software pela Mitra Diocesana, 
+conforme os termos acima mencionados.
